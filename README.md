@@ -1,10 +1,10 @@
 <div id="header" align="center">
-     <ing src="https://media.giphy.com/media/NnMH7LDpZTPZS/giphy.gif" width="200" />
      <h1 align="center">Hi, I´m Mauricio.</h1>
      <h3 align="center">Discovering new tools and skills on Github.
     </h3>
 </div>  
-...
+[![giphy.gif](https://i.postimg.cc/02sQv0vX/giphy.gif)](https://postimg.cc/xq6YyHcL)
+
 **Mauriciorene/Mauriciorene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
