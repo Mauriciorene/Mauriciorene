@@ -1,7 +1,7 @@
-[![giphy.gif](https://i.postimg.cc/02sQv0vX/giphy.gif)](https://postimg.cc/xq6YyHcL)
-div id="header" align="center">
-     <h1 align="center">Hi, I´m Mauricio.</h1>
-     <h3 align="center">Discovering new tools and skills on Github.
+👋👨🏻‍💻🧑🏻‍💻🍀🌎 🌍 🌏
+    <h1 align="center">Hi, I´m Mauricio.</h1>
+    <h1 align="center">[![giphy.gif](https://i.postimg.cc/02sQv0vX/giphy.gif)](https://postimg.cc/xq6YyHcL)
+    <h3 align="center">Discovering new tools and skills on Github.
     </h3>
 </div>  
 **Mauriciorene/Mauriciorene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
